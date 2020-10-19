@@ -24,6 +24,5 @@ public class ButtonPause : MonoBehaviour{
 	//Loading Scene0
 		SceneManager.LoadScene(SceneNumber);
 		Time.timeScale = 1f;
-
 	}
 }
